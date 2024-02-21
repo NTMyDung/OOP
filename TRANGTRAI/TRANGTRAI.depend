@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1686843327 source:c:\users\admin\documents\trangtrai\main.cpp
+	"trangtrai.h"
+
+1686844547 source:c:\users\admin\documents\trangtrai\trangtrai.cpp
+	"trangtrai.h"
+
+1686844775 source:c:\users\admin\documents\trangtrai\cacgiasuc.cpp
+	"cacgiasuc.h"
+
+1686844797 c:\users\admin\documents\trangtrai\cacgiasuc.h
+	<iostream>
+	<string>
+	<time.h>
+
+1686842393 c:\users\admin\documents\trangtrai\trangtrai.h
+	"cacgiasuc.h"
+

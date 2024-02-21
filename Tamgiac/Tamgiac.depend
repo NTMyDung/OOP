@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681914569 source:c:\users\admin\documents\tamgiac\main.cpp
+	<iostream>
+
+1681919127 source:c:\users\admin\documents\tamgiac\tamgiac.cpp
+	"tamgiac.h"
+	<iostream>
+
+1681915982 source:c:\users\admin\documents\tamgiac\diem.cpp
+	"diem.h"
+	<iostream>
+	<math.h>
+
+1681920234 c:\users\admin\documents\tamgiac\diem.h
+	<iostream>
+	<math.h>
+	<string>
+
+1681920625 c:\users\admin\documents\tamgiac\tamgiac.h
+	"DIEM.h"
+

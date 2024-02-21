@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1686764794 source:c:\users\admin\documents\congty\congty.cpp
+	"congty.h"
+	"thuvien.h"
+
+1686764541 source:c:\users\admin\documents\congty\main.cpp
+	"congty.h"
+
+1686761814 source:c:\users\admin\documents\congty\thuvien.cpp
+	"thuvien.h"
+
+1686757463 c:\users\admin\documents\congty\thuvien.h
+	<iostream>
+
+1686761363 c:\users\admin\documents\congty\congty.h
+	"thuvien.h"
+

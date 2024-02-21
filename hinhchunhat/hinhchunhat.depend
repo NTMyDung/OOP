@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1683226878 source:c:\users\admin\documents\hinhchunhat\main.cpp
+	<iostream>
+	"hcn.h"
+
+1683227028 source:c:\users\admin\documents\hinhchunhat\diemm.cpp
+	"diemm.h"
+
+1683223742 c:\users\admin\documents\hinhchunhat\diemm.h
+	<iostream>
+	<math.h>
+	<string>
+
+1683226445 source:c:\users\admin\documents\hinhchunhat\hcn.cpp
+	"hcn.h"
+
+1683223742 c:\users\admin\documents\hinhchunhat\hcn.h
+	"diemm.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685627551 source:c:\users\admin\documents\dathuc\main.cpp
+	"dathuc.h"
+
+1685627896 source:c:\users\admin\documents\dathuc\dathuc.cpp
+	"dathuc.h"
+
+1685627896 c:\users\admin\documents\dathuc\dathuc.h
+	<iostream>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+

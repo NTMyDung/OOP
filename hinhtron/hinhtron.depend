@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1683268754 source:c:\users\admin\documents\hinhtron\diemm.cpp
+	"diemm.h"
+
+1683268755 c:\users\admin\documents\hinhtron\diemm.h
+	<iostream>
+	<math.h>
+	<string>
+
+1683271602 source:c:\users\admin\documents\hinhtron\main.cpp
+	<iostream>
+	"htron.h"
+
+1683271141 source:c:\users\admin\documents\hinhtron\htron.cpp
+	"htron.h"
+
+1683269547 c:\users\admin\documents\hinhtron\htron.h
+	"diemm.h"
+

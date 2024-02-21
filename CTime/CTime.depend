@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684170966 source:c:\users\admin\documents\ctime\main.cpp
+	"ctime.h"
+
+1684170745 source:c:\users\admin\documents\ctime\ctime.cpp
+	"ctime.h"
+	<iostream>
+	<cmath>
+
+1684168775 c:\users\admin\documents\ctime\ctime.h
+	<iostream>
+

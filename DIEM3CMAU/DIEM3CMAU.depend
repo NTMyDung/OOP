@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686143549 source:c:\users\admin\documents\diem3cmau\main.cpp
+	"diem3cmau.h"
+
+1686144102 source:c:\users\admin\documents\diem3cmau\diem3cmau.cpp
+	"diem3cmau.h"
+
+1686143437 c:\users\admin\documents\diem3cmau\diem3cmau.h
+	<iostream>
+	<math.h>
+	<string>
+

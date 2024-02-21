@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1685976181 source:c:\users\admin\documents\diemmau3c\diemmau3c.cpp
+	"diemmau3c.h"
+
+1685976131 source:c:\users\admin\documents\diemmau3c\main.cpp
+	"diemmau3c.h"
+
+1685972991 source:c:\users\admin\documents\diemmau3c\diem2c.cpp
+	"diem2c.h"
+
+1685973002 c:\users\admin\documents\diemmau3c\diem2c.h
+	<iostream>
+	<math.h>
+	<string>
+
+1685974780 source:c:\users\admin\documents\diemmau3c\diem3c.cpp
+	"diem3c.h"
+
+1685972991 c:\users\admin\documents\diemmau3c\diem3c.h
+	"diem2c.h"
+
+1685974505 c:\users\admin\documents\diemmau3c\diemmau3c.h
+	"diem3c.h"
+
